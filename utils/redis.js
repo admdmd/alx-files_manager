@@ -1,6 +1,3 @@
-#!/usr/bin/node
-
-
 
 // instantiates and imports redis.js and promisify for asynchronous function 
 const redis = require('redis');
